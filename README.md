@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakhar  
 
-<!--
-**prakhar062004/prakhar062004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Structures & Algorithms | Backend | DevOps & Cloud  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Project:
+
+---
+
+
+
+  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 LeetCode: 
+- ⭐ CodeChef: 2★ Programmer (Max Rating: 1412)  
+
+
+---
+
+## 🛠️ Skills  
+
+**Languages:** Java • JavaScript • SQL  
+**Backend:** Node.js • Express  
+**Databases:** PostgreSQL • MongoDB  
+**Cloud & DevOps:** AWS • Docker • CI/CD  
+**Tools:** Git • Postman • Linux  
+
+---
+
+## 📫 Contact  
+
+- Email: 
+- LinkedIn: 
+- Resume: 
+
+---
+
+## ⚡ Focus Areas  
+
+- DSA & high-performance problem solving  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+
+<br><br>
