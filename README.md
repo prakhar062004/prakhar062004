@@ -6,6 +6,9 @@ Data Structures & Algorithms | Backend | DevOps & Cloud
 
 ## 🚀 Key Project:
 
+AUTHEN-X
+Job Portal 
+
 ---
 
 
@@ -16,7 +19,7 @@ Data Structures & Algorithms | Backend | DevOps & Cloud
 
 ## 🏆 Achievements  
 
-- 🥇 LeetCode: 
+- 🥇 LeetCode: 400+ Question
 - ⭐ CodeChef: 2★ Programmer (Max Rating: 1412)  
 
 
@@ -24,18 +27,18 @@ Data Structures & Algorithms | Backend | DevOps & Cloud
 
 ## 🛠️ Skills  
 
-**Languages:** Java • JavaScript • SQL  
+**Languages:** C++ • JavaScript • SQL  
 **Backend:** Node.js • Express  
 **Databases:** PostgreSQL • MongoDB  
-**Cloud & DevOps:** AWS • Docker • CI/CD  
-**Tools:** Git • Postman • Linux  
+**Cloud & DevOps:** AWS  
+**Tools:** Git • Postman 
 
 ---
 
 ## 📫 Contact  
 
-- Email: 
-- LinkedIn: 
+- Email: prakharharnaiya@gmail.com
+- LinkedIn: Prakhar Harnaiya
 - Resume: 
 
 ---
