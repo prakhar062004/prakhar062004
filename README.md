@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakhar  
 
-Data Structures & Algorithms | Backend | DevOps & Cloud  
+Data Structures & Algorithms | Backend 
 
 ---
 
