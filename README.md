@@ -6,8 +6,8 @@ Data Structures & Algorithms | Backend
 
 ## 🚀 Key Project:
 
-AUTHEN-X
 Job Portal 
+AUTHEN-X
 
 ---
 
@@ -19,8 +19,9 @@ Job Portal
 
 ## 🏆 Achievements  
 
-- 🥇 LeetCode: 400+ Question
-- ⭐ CodeChef: 2★ Programmer (Max Rating: 1412)  
+- 🥇 LeetCode: 500+ Question
+- ⭐ CodeChef: 2★ Programmer (Max Rating: 1414)
+  
 
 
 ---
@@ -29,7 +30,7 @@ Job Portal
 
 **Languages:** C++ • JavaScript • SQL  
 **Backend:** Node.js • Express  
-**Databases:** PostgreSQL • MongoDB  
+**Databases:** MySQL • MongoDB  
 **Cloud & DevOps:** AWS  
 **Tools:** Git • Postman 
 
@@ -39,7 +40,7 @@ Job Portal
 
 - Email: prakharharnaiya@gmail.com
 - LinkedIn: Prakhar Harnaiya
-- Resume: 
+- Resume: https://drive.google.com/file/d/14MyDil6zXwU19vVW__WMX_Fp9M4_P1Te/view?usp=drive_link
 
 ---
 
