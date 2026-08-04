@@ -40,7 +40,7 @@ AUTHEN-X
 ## 📫 Contact  
 
 - Email: prakharharnaiya@gmail.com
-- LinkedIn: Prakhar Harnaiya
+- LinkedIn:[ Prakhar Harnaiya](https://www.linkedin.com/in/prakharharnaiya/)
 - Resume: https://drive.google.com/file/d/14MyDil6zXwU19vVW__WMX_Fp9M4_P1Te/view?usp=drive_link
 
 ---
