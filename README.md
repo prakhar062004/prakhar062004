@@ -6,6 +6,7 @@ Data Structures & Algorithms | Full Stack Development
 
 ## 🚀 Key Project:
 
+Distributed file storage system
 Job Portal 
 WebRTC Video-call
 AUTHEN-X
@@ -32,7 +33,7 @@ AUTHEN-X
 **Languages:** C++ • JavaScript • SQL  
 **Backend:** Node.js • Express  
 **Databases:** MySQL • MongoDB  
-**Cloud & DevOps:** AWS  
+**Cloud & DevOps:** AWS Docker 
 **Tools:** Git • Postman 
 
 ---
